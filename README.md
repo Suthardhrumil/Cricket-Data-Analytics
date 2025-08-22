@@ -62,8 +62,10 @@ The project performs **Exploratory Data Analysis (EDA)** on cricket datasets, cl
 
 📌 Future Enhancements:-
   🔗 Integrate live cricket APIs for real-time analytics
+  
   🤖 Build predictive models (e.g., match outcome prediction, player performance forecasting)
+  
   ☁️ Deploy dashboard to Power BI Service for web access
 
 ## 📷 Dashboard Preview
-Check out the live dashboard preview on my [LinkedIn post]([https://www.linkedin.com/posts/your-linkedin-post-id](https://www.linkedin.com/posts/dhrumilsutharcs2026_cricketanalytics-powerbi-python-activity-7290391889567002624-rpIn?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEayk3IBzFxcVEg5evQXptQrL8kf4UGt2L4&utm_campaign=copy_link)).
+Check out the live dashboard preview on my [LinkedIn post](https://www.linkedin.com/posts/dhrumilsutharcs2026_cricketanalytics-powerbi-python-activity-7290391889567002624-rpIn?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEayk3IBzFxcVEg5evQXptQrL8kf4UGt2L4&utm_campaign=copy_link).
