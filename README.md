@@ -23,15 +23,25 @@ The project performs **Exploratory Data Analysis (EDA)** on cricket datasets, cl
 
 ## 📂 Repository Structure
 ├── Power BI Dashboard.pbix # Power BI Interactive Dashboard
+
 ├── README.md # Project Documentation
+
 ├── dim_match_summary.csv # Match summary dimension table
+
 ├── dim_players.csv # Player details
+
 ├── fact_bating_summary.csv # Batting performance data
+
 ├── fact_bowling_summary.csv # Bowling performance data
+
 ├── t20_data_preprocessing.ipynb # Data preprocessing (Python)
+
 ├── t20_wc_batting_summary.csv # T20 World Cup batting stats
+
 ├── t20_wc_bowling_summary.csv # T20 World Cup bowling stats
+
 ├── t20_wc_match_results.js # Match results dataset
+
 └── t20_wc_player_info.js # Player information dataset
 
 
